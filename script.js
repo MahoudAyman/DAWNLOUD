@@ -40,4 +40,4 @@ async function modifyElementStyle() {
   }
 }
 
-modifyElementStyle();
+modifyElementStyle();; 
